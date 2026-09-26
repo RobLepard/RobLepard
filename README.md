@@ -4,7 +4,7 @@ Software engineer and architect on Cape Cod, Massachusetts. I've been building p
 
 ### What I'm working on
 
-**KVx at Schell Brothers.** Replacing a 20-year-old homebuilding ERP (Kova, on SQL Server) one business capability at a time. Kova stays the system of record while KVx becomes the API and workflow layer around it, with a small number of audited, locked-down write paths back into the legacy system. Pricing, catalog, vendor onboarding, and floor-plan APIs are live. The rebuilt pricing engine matches the legacy one within $1 on 99.56% of 150 production worksheets.
+**KVx at Schell Brothers.** Replacing a 20-year-old homebuilding ERP (on SQL Server) one business capability at a time. The legacy system stays the system of record while KVx becomes the API and workflow layer around it, with a small number of audited, locked-down write paths back into the legacy system. Pricing, catalog, vendor onboarding, and floor-plan APIs are live. The rebuilt pricing engine matches the legacy one within $1 on 99.56% of 150 production worksheets.
 
 **Running an AI agent fleet against a live ERP.** Much of the commit activity on this profile comes from coding agents working under my direction on research, pricing, catalog, and takeoff work. People keep authority over scope, migrations, production writes, and releases. The harder problem turned out to be coordination rather than code generation, so a lot of my time goes into the shared registry of tasks, dependencies, and evidence that keeps agents and people working from the same picture.
 
